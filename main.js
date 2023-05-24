@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 
     var c = a + b;
 
-    res.send('Hello World!')
+    return res.send('test');
 })
 
 app.listen(port, () => {

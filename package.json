@@ -5,23 +5,23 @@
   "main": "main.js",
   "scripts": {
     "start": "nodemon --inspect main.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "": "echo \"Error: no  specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ndthanh0200/Nodejs.git"
+    "url": "git+https://github.com/ndthanh0200/NodeJS.git"
   },
   "keywords": [
     "tutorial",
-    "test",
+    "",
     "nodejs"
   ],
   "author": "me",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ndthanh0200/Nodejs/issues"
+    "url": "https://github.com/ndthanh0200/NodeJS/issues"
   },
-  "homepage": "https://github.com/ndthanh0200/Nodejs#readme",
+  "homepage": "https://github.com/ndthanh0200/NodeJS#readme",
   "dependencies": {
     "express": "^4.18.2"
   },
